@@ -26,7 +26,7 @@ Welcome to **Collaboard** — a digital canvas where creative minds converge in 
 1. **Clone the repository:**
 
    ```bash
-   git clone 
+   git clone https://github.com/nisha25052005/collaboard-a-realtime-collaborative-whiteboard.git
    cd whiteboard
    ```
 
